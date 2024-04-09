@@ -1,0 +1,106 @@
+{
+  "2011": [
+    {"Team": "Manchester Utd", "Rank": 1},
+    {"Team": "Chelsea", "Rank": 2},
+    {"Team": "Manchester City", "Rank": 3},
+    {"Team": "Arsenal", "Rank": 4},
+    {"Team": "Tottenham", "Rank": 5},
+    {"Team": "Liverpool", "Rank": 6}
+  ],
+  "2012": [
+    {"Team": "Manchester City", "Rank": 1},
+    {"Team": "Manchester Utd", "Rank": 2},
+    {"Team": "Arsenal", "Rank": 3},
+    {"Team": "Tottenham", "Rank": 4},
+    {"Team": "Newcastle", "Rank": 5},
+    {"Team": "Chelsea", "Rank": 6}
+  ],
+  "2013": [
+    {"Team": "Manchester Utd", "Rank": 1},
+    {"Team": "Manchester City", "Rank": 2},
+    {"Team": "Chelsea", "Rank": 3},
+    {"Team": "Arsenal", "Rank": 4},
+    {"Team": "Tottenham", "Rank": 5},
+    {"Team": "Everton", "Rank": 6}
+  ],
+  "2014": [
+    {"Team": "Manchester City", "Rank": 1},
+    {"Team": "Liverpool", "Rank": 2},
+    {"Team": "Chelsea", "Rank": 3},
+    {"Team": "Arsenal", "Rank": 4},
+    {"Team": "Everton", "Rank": 5},
+    {"Team": "Tottenham", "Rank": 6}
+  ],
+  "2015": [
+    {"Team": "Chelsea", "Rank": 1},
+    {"Team": "Manchester City", "Rank": 2},
+    {"Team": "Arsenal", "Rank": 3},
+    {"Team": "Manchester Utd", "Rank": 4},
+    {"Team": "Tottenham", "Rank": 5},
+    {"Team": "Liverpool", "Rank": 6}
+  ],
+  "2016": [
+    {"Team": "Leicester", "Rank": 1},
+    {"Team": "Arsenal", "Rank": 2},
+    {"Team": "Tottenham", "Rank": 3},
+    {"Team": "Manchester City", "Rank": 4},
+    {"Team": "Manchester Utd", "Rank": 5},
+    {"Team": "Southampton", "Rank": 6}
+  ],
+  "2017": [
+    {"Team": "Chelsea", "Rank": 1},
+    {"Team": "Tottenham", "Rank": 2},
+    {"Team": "Manchester City", "Rank": 3},
+    {"Team": "Liverpool", "Rank": 4},
+    {"Team": "Arsenal", "Rank": 5},
+    {"Team": "Manchester Utd", "Rank": 6}
+  ],
+  "2018": [
+    {"Team": "Manchester City", "Rank": 1},
+    {"Team": "Manchester Utd", "Rank": 2},
+    {"Team": "Tottenham", "Rank": 3},
+    {"Team": "Liverpool", "Rank": 4},
+    {"Team": "Chelsea", "Rank": 5},
+    {"Team": "Arsenal", "Rank": 6}
+  ],
+  "2019": [
+    {"Team": "Manchester City", "Rank": 1},
+    {"Team": "Liverpool", "Rank": 2},
+    {"Team": "Chelsea", "Rank": 3},
+    {"Team": "Tottenham", "Rank": 4},
+    {"Team": "Manchester Utd", "Rank": 6},
+    {"Team": "Arsenal", "Rank": 5}
+  ],
+  "2020": [
+    {"Team": "Liverpool", "Rank": 1},
+    {"Team": "Manchester City", "Rank": 2},
+    {"Team": "Manchester Utd", "Rank": 3},
+    {"Team": "Chelsea", "Rank": 4},
+    {"Team": "Leicester", "Rank": 5},
+    {"Team": "Arsenal", "Rank": 8}
+  ],
+  "2021": [
+    {"Team": "Manchester City", "Rank": 1},
+    {"Team": "Manchester Utd", "Rank": 2},
+    {"Team": "Liverpool", "Rank": 3},
+    {"Team": "Chelsea", "Rank": 4},
+    {"Team": "Leicester", "Rank": 5},
+    {"Team": "Tottenham", "Rank": 7}
+  ],
+  "2022": [
+    {"Team": "Manchester City", "Rank": 1},
+    {"Team": "Liverpool", "Rank": 2},
+    {"Team": "Chelsea", "Rank": 3},
+    {"Team": "Manchester Utd", "Rank": 6},
+    {"Team": "Tottenham", "Rank": 4},
+    {"Team": "Arsenal", "Rank": 5}
+  ],
+  "2023": [
+    {"Team": "Manchester City", "Rank": 1},
+    {"Team": "Manchester Utd", "Rank": 3},
+    {"Team": "Arsenal", "Rank": 2},
+    {"Team": "Liverpool", "Rank": 5},
+    {"Team": "Chelsea", "Rank": 12},
+    {"Team": "Tottenham", "Rank": 8}
+  ]
+}
