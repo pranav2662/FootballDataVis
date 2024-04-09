@@ -1,0 +1,106 @@
+{
+  "2011": [
+    {"Team": "Arsenal", "Spending": 23},
+    {"Team": "Chelsea", "Spending": 121.5},
+    {"Team": "Liverpool", "Spending": 97.73},
+    {"Team": "Manchester City", "Spending": 183.61},
+    {"Team": "Manchester Utd", "Spending": 29.3},
+    {"Team": "Tottenham", "Spending": 26.6}
+  ],
+  "2012": [
+    {"Team": "Arsenal", "Spending": 65.48},
+    {"Team": "Chelsea", "Spending": 96.45},
+    {"Team": "Liverpool", "Spending": 65.33},
+    {"Team": "Manchester City", "Spending": 91.05},
+    {"Team": "Manchester Utd", "Spending": 62.3},
+    {"Team": "Tottenham", "Spending": 9}
+  ],
+  "2013": [
+    {"Team": "Arsenal", "Spending": 56},
+    {"Team": "Chelsea", "Spending": 109.7},
+    {"Team": "Liverpool", "Spending": 70.6},
+    {"Team": "Manchester City", "Spending": 61.95},
+    {"Team": "Manchester Utd", "Spending": 76.45},
+    {"Team": "Tottenham", "Spending": 73.25}
+  ],
+  "2014": [
+    {"Team": "Arsenal", "Spending": 49.25},
+    {"Team": "Chelsea", "Spending": 130.35},
+    {"Team": "Liverpool", "Spending": 58.1},
+    {"Team": "Manchester City", "Spending": 115.5},
+    {"Team": "Manchester Utd", "Spending": 77.13},
+    {"Team": "Tottenham", "Spending": 122.55}
+  ],
+  "2015": [
+    {"Team": "Arsenal", "Spending": 118.98},
+    {"Team": "Chelsea", "Spending": 137.7},
+    {"Team": "Liverpool", "Spending": 151.43},
+    {"Team": "Manchester City", "Spending": 102.8},
+    {"Team": "Manchester Utd", "Spending": 195.35},
+    {"Team": "Tottenham", "Spending": 48.48}
+  ],
+  "2016": [
+    {"Team": "Arsenal", "Spending": 26.5},
+    {"Team": "Chelsea", "Spending": 96.5},
+    {"Team": "Liverpool", "Spending": 126.5},
+    {"Team": "Manchester City", "Spending": 208.47},
+    {"Team": "Manchester Utd", "Spending": 156},
+    {"Team": "Tottenham", "Spending": 71}
+  ],
+  "2017": [
+    {"Team": "Arsenal", "Spending": 113},
+    {"Team": "Chelsea", "Spending": 132.8},
+    {"Team": "Liverpool", "Spending": 79.9},
+    {"Team": "Manchester City", "Spending": 216.25},
+    {"Team": "Manchester Utd", "Spending": 185},
+    {"Team": "Tottenham", "Spending": 83.5}
+  ],
+  "2018": [
+    {"Team": "Arsenal", "Spending": 152.85},
+    {"Team": "Chelsea", "Spending": 260.5},
+    {"Team": "Liverpool", "Spending": 173.65},
+    {"Team": "Manchester City", "Spending": 317.5},
+    {"Team": "Manchester Utd", "Spending": 198.4},
+    {"Team": "Tottenham", "Spending": 121}
+  ],
+  "2019": [
+    {"Team": "Arsenal", "Spending": 80.15},
+    {"Team": "Chelsea", "Spending": 208.8},
+    {"Team": "Liverpool", "Spending": 182.2},
+    {"Team": "Manchester City", "Spending": 78.59},
+    {"Team": "Manchester Utd", "Spending": 82.7},
+    {"Team": "Tottenham", "Spending": 0}
+  ],
+  "2020": [
+    {"Team": "Arsenal", "Spending": 160.8},
+    {"Team": "Chelsea", "Spending": 45},
+    {"Team": "Liverpool", "Spending": 10.4},
+    {"Team": "Manchester City", "Spending": 169.82},
+    {"Team": "Manchester Utd", "Spending": 236.8},
+    {"Team": "Tottenham", "Spending": 150.5}
+  ],
+  "2021": [
+    {"Team": "Arsenal", "Spending": 86},
+    {"Team": "Chelsea", "Spending": 247.2},
+    {"Team": "Liverpool", "Spending": 84.05},
+    {"Team": "Manchester City", "Spending": 173.4},
+    {"Team": "Manchester Utd", "Spending": 83.8},
+    {"Team": "Tottenham", "Spending": 110.5}
+  ],
+  "2022": [
+    {"Team": "Arsenal", "Spending": 167.4},
+    {"Team": "Chelsea", "Spending": 118},
+    {"Team": "Liverpool", "Spending": 87},
+    {"Team": "Manchester City", "Spending": 138.9},
+    {"Team": "Manchester Utd", "Spending": 142},
+    {"Team": "Tottenham", "Spending": 95.9}
+  ],
+  "2023": [
+    {"Team": "Arsenal", "Spending": 186.4},
+    {"Team": "Chelsea", "Spending": 611.49},
+    {"Team": "Liverpool", "Spending": 142.3},
+    {"Team": "Manchester City", "Spending": 155},
+    {"Team": "Manchester Utd", "Spending": 243.28},
+    {"Team": "Tottenham", "Spending": 177.9}
+  ]
+}
