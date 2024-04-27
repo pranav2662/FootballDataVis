@@ -1,0 +1,79 @@
+{
+  "2013": [
+    {"Team": "Arsenal", "Rk": 4, "Pts": 73},
+    {"Team": "Chelsea", "Rk": 3, "Pts": 75},
+    {"Team": "Liverpool", "Rk": 7, "Pts": 61},
+    {"Team": "Manchester City", "Rk": 2, "Pts": 78},
+    {"Team": "Manchester Utd", "Rk": 1, "Pts": 89}
+  ],
+  "2014": [
+    {"Team": "Arsenal", "Rk": 4, "Pts": 79},
+    {"Team": "Chelsea", "Rk": 3, "Pts": 82},
+    {"Team": "Liverpool", "Rk": 2, "Pts": 84},
+    {"Team": "Manchester City", "Rk": 1, "Pts": 86},
+    {"Team": "Manchester Utd", "Rk": 7, "Pts": 64}
+  ],
+  "2015": [
+    {"Team": "Arsenal", "Rk": 3, "Pts": 75},
+    {"Team": "Chelsea", "Rk": 1, "Pts": 87},
+    {"Team": "Liverpool", "Rk": 6, "Pts": 62},
+    {"Team": "Manchester City", "Rk": 2, "Pts": 79},
+    {"Team": "Manchester Utd", "Rk": 4, "Pts": 70}
+  ],
+  "2016": [
+    {"Team": "Arsenal", "Rk": 2, "Pts": 71},
+    {"Team": "Chelsea", "Rk": 10, "Pts": 50},
+    {"Team": "Liverpool", "Rk": 8, "Pts": 60},
+    {"Team": "Manchester City", "Rk": 4, "Pts": 66},
+    {"Team": "Manchester Utd", "Rk": 5, "Pts": 66}
+  ],
+  "2017": [
+    {"Team": "Arsenal", "Rk": 5, "Pts": 75},
+    {"Team": "Chelsea", "Rk": 1, "Pts": 93},
+    {"Team": "Liverpool", "Rk": 4, "Pts": 76},
+    {"Team": "Manchester City", "Rk": 3, "Pts": 78},
+    {"Team": "Manchester Utd", "Rk": 6, "Pts": 69}
+  ],
+  "2018": [
+    {"Team": "Arsenal", "Rk": 6, "Pts": 63},
+    {"Team": "Chelsea", "Rk": 5, "Pts": 70},
+    {"Team": "Liverpool", "Rk": 4, "Pts": 75},
+    {"Team": "Manchester City", "Rk": 1, "Pts": 100},
+    {"Team": "Manchester Utd", "Rk": 2, "Pts": 81}
+  ],
+  "2019": [
+    {"Team": "Arsenal", "Rk": 5, "Pts": 70},
+    {"Team": "Chelsea", "Rk": 3, "Pts": 72},
+    {"Team": "Liverpool", "Rk": 2, "Pts": 97},
+    {"Team": "Manchester City", "Rk": 1, "Pts": 98},
+    {"Team": "Manchester Utd", "Rk": 6, "Pts": 66}
+  ],
+  "2020": [
+    {"Team": "Arsenal", "Rk": 8, "Pts": 56},
+    {"Team": "Chelsea", "Rk": 4, "Pts": 66},
+    {"Team": "Liverpool", "Rk": 1, "Pts": 99},
+    {"Team": "Manchester City", "Rk": 2, "Pts": 81},
+    {"Team": "Manchester Utd", "Rk": 3, "Pts": 66}
+  ],
+  "2021": [
+    {"Team": "Arsenal", "Rk": 8, "Pts": 61},
+    {"Team": "Chelsea", "Rk": 4, "Pts": 67},
+    {"Team": "Liverpool", "Rk": 3, "Pts": 69},
+    {"Team": "Manchester City", "Rk": 1, "Pts": 86},
+    {"Team": "Manchester Utd", "Rk": 2, "Pts": 74}
+  ],
+  "2022": [
+    {"Team": "Arsenal", "Rk": 5, "Pts": 69},
+    {"Team": "Chelsea", "Rk": 3, "Pts": 74},
+    {"Team": "Liverpool", "Rk": 2, "Pts": 92},
+    {"Team": "Manchester City", "Rk": 1, "Pts": 93},
+    {"Team": "Manchester Utd", "Rk": 6, "Pts": 58}
+  ],
+  "2023": [
+    {"Team": "Arsenal", "Rk": 2, "Pts": 84},
+    {"Team": "Chelsea", "Rk": 12, "Pts": 44},
+    {"Team": "Liverpool", "Rk": 5, "Pts": 67},
+    {"Team": "Manchester City", "Rk": 1, "Pts": 89},
+    {"Team": "Manchester Utd", "Rk": 3, "Pts": 75}
+  ]
+}
